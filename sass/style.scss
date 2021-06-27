@@ -14,6 +14,7 @@ $color-logo:#ffd32a;
 $font-text:'Lato', sans-serif;
 $font-logo:'Viaoda Libre', cursive;
 $font-subtitle:'Yellowtail', cursive;
+// @import "scss/fontawesome.scss"
 
 .bagr {
     background-image: url("https://images.pexels.com/photos/306763/pexels-photo-306763.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
@@ -54,3 +55,41 @@ $font-subtitle:'Yellowtail', cursive;
 .btn-warning{
     color: $color-main;
 }
+.icons{
+    text-align: center;
+}
+.icons i {
+    width: 80px;
+    height: 80px;
+    color: #ffd32a;
+    font-size: 40px;
+    border-radius: 40px;
+    border: #ffd32a solid 4px;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+}
+.icons h4 {
+    margin: 30px 0;
+    font-size: 30px;
+    font-weight: 700;
+}
+.icons p{
+    margin: 0;
+    color: $color-light;
+}
+.services {
+    margin: 60px 0 ;
+}
+.services h2 {
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+.services h5 {
+    font-family: $font-subtitle;
+    font-size: 20px;
+    text-align: center;
+    color: #808e9b;
+}
+
