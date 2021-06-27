@@ -1,0 +1,38 @@
+// GLOBAL
+
+// Colors
+$color-main:#fff;
+$color-dark:#1e272e;
+$color-light:#808e9b;
+$color-logo:#ffd32a;
+
+// Fonts
+$font-text:'Lato', sans-serif;
+$font-logo:'Viaoda Libre', cursive;
+$font-subtitle:'Yellowtail', cursive;
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    }
+body {
+    margin:0;
+    font-size:16px;
+    line-height:1.7;
+    font-family:$font-text;
+    color:$color-dark;
+    }
+.container {
+    max-width:1140px;
+    padding:0 20px;
+    margin:0 auto;
+    }
+section {
+    padding:46px 0;
+    }
+
+.navbar-dark  {
+    color:yellow;
+}
+.logo {
+    text-transform: capitalize;
+}
