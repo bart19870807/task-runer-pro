@@ -35,4 +35,19 @@ section {
 }
 .logo {
     text-transform: capitalize;
+    font-family: $font-logo;
 }
+.selector {
+    text-transform: uppercase;
+    color: $color-main !important;
+    
+}
+.top {
+    background-image: url("https://images.pexels.com/photos/821749/pexels-photo-821749.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    height: auto;
+    max-width:1140px;
+}
+
+
+    
+

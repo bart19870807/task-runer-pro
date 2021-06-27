@@ -26,5 +26,17 @@ section {
 
 .logo {
   text-transform: capitalize;
+  font-family: "Viaoda Libre", cursive;
 }
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFhQTtFQUNJLHNCQUFzQjtBQ1oxQjs7QURjQTtFQUNJLFNBQVE7RUFDUixlQUFjO0VBQ2QsZ0JBQWU7RUFDZiwrQkFYeUI7RUFZekIsY0FqQmU7QUNNbkI7O0FEYUE7RUFDSSxpQkFBZ0I7RUFDaEIsZUFBYztFQUNkLGNBQWE7QUNWakI7O0FEWUE7RUFDSSxlQUFjO0FDVGxCOztBRFlBO0VBQ0ksYUFBWTtBQ1RoQjs7QURXQTtFQUNJLDBCQUEwQjtBQ1I5QiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+
+.selector {
+  text-transform: uppercase;
+  color: #fff !important;
+}
+
+.top {
+  background-image: url("https://images.pexels.com/photos/821749/pexels-photo-821749.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  height: auto;
+  max-width: 1140px;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFhQTtFQUNJLHNCQUFzQjtBQ1oxQjs7QURjQTtFQUNJLFNBQVE7RUFDUixlQUFjO0VBQ2QsZ0JBQWU7RUFDZiwrQkFYeUI7RUFZekIsY0FqQmU7QUNNbkI7O0FEYUE7RUFDSSxpQkFBZ0I7RUFDaEIsZUFBYztFQUNkLGNBQWE7QUNWakI7O0FEWUE7RUFDSSxlQUFjO0FDVGxCOztBRFlBO0VBQ0ksYUFBWTtBQ1RoQjs7QURXQTtFQUNJLDBCQUEwQjtFQUMxQixvQ0EzQjhCO0FDbUJsQzs7QURVQTtFQUNJLHlCQUF5QjtFQUN6QixzQkFBNkI7QUNQakM7O0FEVUE7RUFDSSwrSEFBK0g7RUFDL0gsWUFBWTtFQUNaLGlCQUFnQjtBQ1BwQiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
