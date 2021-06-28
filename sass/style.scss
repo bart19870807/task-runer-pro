@@ -24,6 +24,7 @@ $font-subtitle:'Yellowtail', cursive;
 .container {
     width: 1140px;;
 }
+// section LOGO NAV
 .logo-nav{
     padding-top: 20px;
 }
@@ -61,6 +62,9 @@ $font-subtitle:'Yellowtail', cursive;
 .btn-warning{
     color: $color-main;
 }
+
+// section services
+
 .icons{
     text-align: center;
 }
@@ -87,15 +91,46 @@ $font-subtitle:'Yellowtail', cursive;
 .services {
     margin: 60px 0 ;
 }
-.services h2 {
+.title {
+    text-transform: uppercase;
     font-weight: 700;
     font-size: 40px;
     text-align: center;
 }
-.services h5 {
+.subtitle {
     font-family: $font-subtitle;
     font-size: 20px;
     text-align: center;
     color: #808e9b;
 }
-
+// section our portfolio
+.our-portfolio {
+    background-color: #f5f6fa;
+}
+.our-portfolio h2 {
+    padding-top: 60px;
+}
+.our-portfolio h5 {
+    padding-bottom: 60px;
+}
+.description {
+    background-color: #fff;
+    width: 350px;
+    text-align: center;
+}
+.title-box {
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #1e272e;
+    padding: 15px 0;
+    margin-bottom: 0;
+}
+.subtitle-box {
+    text-transform: capitalize;
+    font-family: $font-subtitle;
+    color: $color-light;
+    padding-bottom: 20px;
+}
+.our-portfolio img {
+    height: 233px;
+}
