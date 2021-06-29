@@ -21,9 +21,7 @@ $font-subtitle:'Yellowtail', cursive;
     background-size: cover;
     background-position: center center;
 }
-.container {
-    width: 1140px;;
-}
+
 // section LOGO NAV
 .logo-nav{
     padding-top: 20px;
@@ -163,5 +161,6 @@ $font-subtitle:'Yellowtail', cursive;
         border-radius:15px;
         margin-right: 10px;
         display: inline-block;
+        line-height:30px;
         }
     }
